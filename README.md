@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AzadWong
-- 👀 I’m interested in MUSIC FILM PHILOSOPHY 
+- 👀 I’m interested in MUSIC FILM PHILOSOPHY...
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me wongazad@gmail.com
